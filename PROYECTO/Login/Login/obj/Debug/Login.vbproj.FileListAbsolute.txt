@@ -1,0 +1,27 @@
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Login.exe.config
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Login.exe
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Login.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Login.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Datos.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Entidad.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Guna.UI.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Datos.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Datos.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Entidad.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\bin\Debug\Entidad.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.exe
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Login\obj\Debug\Login.Form2.resources
+E:\2023\Login\Login\bin\Debug\Login.exe.config
+E:\2023\Login\Login\obj\Debug\Login.exe
+E:\2023\Login\Login\obj\Debug\Login.xml
+E:\2023\Login\Login\obj\Debug\Login.pdb
+I:\Login\Login\bin\Debug\Login.exe.config
+I:\Login\Login\obj\Debug\Login.exe
+I:\Login\Login\obj\Debug\Login.xml
+I:\Login\Login\obj\Debug\Login.pdb

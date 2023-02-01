@@ -1,0 +1,13 @@
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Datos.dll.config
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Datos.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Datos.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Datos.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Entidad.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Entidad.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\bin\Debug\Entidad.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\obj\Debug\Datos.vbprojResolveAssemblyReference.cache
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\obj\Debug\Datos.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\obj\Debug\Datos.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Datos\obj\Debug\Datos.pdb

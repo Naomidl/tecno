@@ -1,0 +1,9 @@
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\bin\Debug\Entidad.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\bin\Debug\Entidad.pdb
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\bin\Debug\Entidad.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\obj\Debug\Entidad.vbprojResolveAssemblyReference.cache
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\obj\Debug\Entidad.dll
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\obj\Debug\Entidad.xml
+C:\Users\ALEXIS CHOLOTIO\Documents\Visual Studio 2015\Projects\Visual Basic Ejercicios de Clases\Login\Entidad\obj\Debug\Entidad.pdb
